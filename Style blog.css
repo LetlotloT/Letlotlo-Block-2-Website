@@ -1,0 +1,153 @@
+body{
+    background: url(daniel-jerez-CD4WHrWio6Q-unsplash.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+} 
+#Logo1{
+    width: 100px;
+    margin: 20PX 20PX ;
+}
+nav ul{
+   float: right; 
+   margin: 40px 10px 20px 40px;
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 200px;
+}
+header nav ul li a{
+    color: whitesmoke;
+    font-size: 25px;
+    font-weight: bolder;
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     
+    
+}
+a.active{
+    background: rgb(248, 161, 30);
+    padding: 10px 30px;
+    border-radius: 50px; 
+}
+footer nav{
+    background: rgb(248, 161, 30, 0.6);
+    height: 100px;
+    border-top-style: double;
+    border-top-width: thick ;
+    border-top-color: black;
+    
+    }
+        
+    footer nav ul li {
+        margin-right: 180px;
+        margin-left: 90px;
+    }
+    footer nav ul li a{
+        font-size: 20px;
+        text-decoration: double;
+        color: black;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-weight: bold;
+    
+    }
+    main section h1{
+        margin-top: 100px;
+        font-size: 70px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: whitesmoke;
+        font-weight: bolder;
+        margin-left: 30px;
+        font-style: normal
+    }
+    main article h2{
+        margin-top: 10px;
+        font-size: 30px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: whitesmoke;
+        font-weight: bolder;
+        margin-left: 30px;
+        font-style: oblique
+    }
+    main article h3{
+        margin-top: 50px;
+        font-size: 30px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: whitesmoke;
+        font-weight: bolder;
+        margin-left: 30px;
+        font-style: oblique
+    }
+    main article h4{
+        margin-top: 50px;
+        font-size: 30px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: whitesmoke;
+        font-weight: bolder;
+        margin-left: 30px;
+        font-style: oblique
+    }
+    main article h5{
+        margin-top: 50px;
+        font-size: 30px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: whitesmoke;
+        font-weight: bolder;
+        margin-left: 30px;
+        font-style: oblique
+    }
+
+    
+    main article p{
+        color: white;
+        font-size: 20px;
+        margin-left: 30px;
+        margin-right: 40px;
+        line-height: 1.8;
+        font-weight: bold;
+       
+
+    }
+    main article{
+        background: rgba( 0, 0, 0, 0.6);
+        margin-left: 80px;
+        margin-right: 80px;
+        margin-top: 50px;
+        margin-bottom: 100px;
+        backdrop-filter: blur(10px);
+        padding: 20px 20px;
+    }
+
+    main article time{
+        color: whitesmoke;
+        font-style: italic;
+        float: right;
+    }
+
+    #BlogsList{
+        margin: 40px 10px 20px 40px;
+
+    }
+    
+    main ul li{
+        display: inline-block;
+        margin-right: 90px;
+        margin-left: 55px;
+    }
+    main ul li a{
+        color: whitesmoke;
+        font-size: 25px;
+        font-weight:normal;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
+    }
+    body main article button {
+        color: black;
+        background-color: beige;
+        font-family: 'Courier New', Courier, monospace;
+
+    }
+    body main article button a {
+        font-family: 'Courier New', Courier, monospace;
+        color: black;
+        font-weight: bolder;
+        
+    }
